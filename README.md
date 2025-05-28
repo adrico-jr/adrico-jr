@@ -6,3 +6,4 @@
 <br>
 <img src="https://cdn-jghdn.nitrocdn.com/WaAKrPwVavvRtmiuchNkiowpZvENVGmM/assets/images/optimized/rev-f477451/www.homehost.com.br/blog/wp-content/uploads/2019/07/htmlcssjs.jpg" alt="logo-html-css-js" width="300px" >
 <br>
+![Adrico GitHub stats](https://github-readme-stats.vercel.app/api?username=adrico-jr_icons=true&theme=transparent)
